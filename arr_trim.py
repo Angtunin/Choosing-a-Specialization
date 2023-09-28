@@ -9,3 +9,7 @@ def array_trim(a):
             new_list.append(a[i])
     a = new_list
     return a
+
+print(array_trim(list1))
+print(array_trim(list2))
+print(array_trim(list3))
