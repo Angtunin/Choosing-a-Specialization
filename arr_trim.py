@@ -12,4 +12,4 @@ def array_trim(a):
 
 print(array_trim(list1))
 print(array_trim(list2))
-print(array_trim(list3))
+print(array_trim(lgist3))
